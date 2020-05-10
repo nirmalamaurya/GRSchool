@@ -1,0 +1,37 @@
+[ 
+    {
+      "id": "1",
+      "name": "Mr. Ramchandra Prasad (Principle)",
+      "src":  "../../assets/kush.png"
+    },
+    {
+      "id": "2",
+      "name": "Mrs. Nirmala Maurya(Manager)",
+      "src": "../../../assets/kush.png"
+    },
+    
+    {
+      "id": "3",
+      "name": "Mr. Kush Maurya (Teacher)",
+      "src": "../../../assets/kush.png"
+    },
+    
+    {
+      "id": "4",
+      "name": "Mr. Pankaj (Senior Teacher)",
+      "src":"../../../assets/kush.png"
+    },
+    
+    {
+      "id": "5",
+      "name": "Mrs. Bindu",
+      "src":"../../../assets/kush.png"
+    },
+    
+    {
+      "id": "6",
+      "name": "Mrs. Sunita Maurya",
+      "src": "../../../assets/kush.png"
+    
+    }
+]

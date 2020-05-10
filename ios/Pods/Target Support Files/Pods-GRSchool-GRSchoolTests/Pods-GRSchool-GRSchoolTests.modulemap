@@ -1,0 +1,6 @@
+module Pods_GRSchool_GRSchoolTests {
+  umbrella header "Pods-GRSchool-GRSchoolTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

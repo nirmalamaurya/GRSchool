@@ -1,0 +1,6 @@
+module Pods_GRSchool {
+  umbrella header "Pods-GRSchool-umbrella.h"
+
+  export *
+  module * { export * }
+}
